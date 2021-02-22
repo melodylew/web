@@ -19,13 +19,13 @@ p  {
 
 h1 {
   color: #ff9999;
-  font-family: 'oswald';
+  font-family: 'Oswald', sans-serif;
   font-size: 25px;
   text-align:  center;
 } /* the heading "Painting Galore: A Guide to Painting for Beginners" will be in this color, have a font size of 25px and oswald font, and be centered */
 
 h2 {
   color: #ffcccc;
-  font-family: 'oswald';
+  font-family: 'Oswald', sans-serif;
   font-size: 20px;
 } /* all the subheadings will be in this color and have a font size of 20px and font of oswald */
