@@ -14,18 +14,18 @@ body {
 
 p  {
   font-family: 'verdana';
-  font-size: 18px;
+  font-size: 15px;
 } /* the text (not the headings) is in the font verdana and will be in 18px */
 
 h1 {
   color: #ff9999;
   font-family: 'Oswald', sans-serif;
-  font-size: 25px;
+  font-size: 50px;
   text-align:  center;
 } /* the heading "Painting Galore: A Guide to Painting for Beginners" will be in this color, have a font size of 25px and oswald font, and be centered */
 
 h2 {
   color: #ffcccc;
   font-family: 'Oswald', sans-serif;
-  font-size: 20px;
+  font-size: 40px;
 } /* all the subheadings will be in this color and have a font size of 20px and font of oswald */
